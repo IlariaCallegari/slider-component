@@ -19,7 +19,7 @@ body {
   border-radius: 0.7rem;
   padding: 1.2rem 1.5rem;
   background: linear-gradient(160deg, var(--lightGrey) 15%, var(--white));
-  box-shadow:  13px 8px 29px 5px rgba(100, 100, 111, 0.1), 10px 5px 20px 2px rgba(100, 100, 111, 0.1);
+  box-shadow:  13px 8px 27px 0px rgba(100, 100, 111, 0.1), 15px 10px 29px 4px rgba(100, 100, 111, 0.1);
 }
 
 span {
