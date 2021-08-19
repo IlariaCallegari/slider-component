@@ -40,7 +40,6 @@ input[type="range"] {
   border-radius: 4rem;
   border: 5px solid var(--lightGrey);
   box-shadow: -1px -1px 0 1px rgba(0, 0, 0, 0.1);
- ;
 }
 
 /*Webkit*/
