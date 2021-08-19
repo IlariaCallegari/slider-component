@@ -12,7 +12,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .sliderCtn {
+  display: flex;
+  align-items: center;
   border-radius: 0.7rem;
   padding: 1.2rem 1.5rem;
   background: linear-gradient(160deg, var(--lightGrey) 15%, var(--white));
@@ -23,6 +26,7 @@ span {
   margin-right: 1.5rem;
   margin-left: 1.5rem;
   font-weight: 200;
+  font-size: 1.1rem;
   color: var(--grey);
 }
 
